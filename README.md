@@ -14,3 +14,7 @@
 7) Install Flask with Alexa Jarvis code
 8) Build Line bot
 9) Install  
+
+
+# Home assistant with Alexa
+https://github.com/walthowd/ha-alexa-tts
