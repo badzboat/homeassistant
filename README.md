@@ -18,3 +18,10 @@
 
 # Home assistant with Alexa
 https://github.com/walthowd/ha-alexa-tts
+
+
+10) Configure LetsEncrypt 
+
+- git clone https://github.com/letsencrypt/letsencrypt
+- ./letsencrypt-auto certonly --email pxxxxxx@yahoo.com -d mxxxxxxxxt.duckdns.org 
+![image](https://user-images.githubusercontent.com/16419246/50244308-40949300-0395-11e9-85c2-dc18c787db35.png)
