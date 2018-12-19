@@ -28,3 +28,7 @@ https://github.com/walthowd/ha-alexa-tts
 
 
 ![image](https://user-images.githubusercontent.com/16419246/50244772-64a4a400-0396-11e9-8da3-2c9db2ded7c0.png)
+
+
+- sudo chmod -R 777 /etc/letsencrypt
+![image](https://user-images.githubusercontent.com/16419246/50248445-b4886880-03a0-11e9-8fcf-0ed7d68eb68c.png)
