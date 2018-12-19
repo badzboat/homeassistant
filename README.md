@@ -21,7 +21,10 @@ https://github.com/walthowd/ha-alexa-tts
 
 
 10) Configure LetsEncrypt 
-
+# Make sure to complete port forwarding on Router
 - git clone https://github.com/letsencrypt/letsencrypt
 - ./letsencrypt-auto certonly --email pxxxxxx@yahoo.com -d mxxxxxxxxt.duckdns.org 
 ![image](https://user-images.githubusercontent.com/16419246/50244308-40949300-0395-11e9-85c2-dc18c787db35.png)
+
+
+![image](https://user-images.githubusercontent.com/16419246/50244772-64a4a400-0396-11e9-8da3-2c9db2ded7c0.png)
