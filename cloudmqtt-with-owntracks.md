@@ -14,6 +14,7 @@ https://www.youtube.com/watch?v=VaWdvVVYU3A&t=477s
 
 # Configuration owntracks and CloudMQTT
 
+vi /home/badz/.homeassistant/configuration.yaml
 ![image](https://user-images.githubusercontent.com/16419246/50243606-307bb400-0393-11e9-8210-c82a2c745123.png)
 
 To restart after edited Yaml file  /home/badz/.homeassistant/configuration.yaml
